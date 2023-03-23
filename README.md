@@ -16,5 +16,7 @@ In this [Google Sheet](https://docs.google.com/spreadsheets/d/1wYnN-2_9oZmnNFHef
 Although describing the surge in cash has been the subject of many studies, a major gap remains in the literature regarding the relative importance of the potential drivers.  
 
 
-References
+# References
+Falato, A., Kadyrzhanova, D., Sim, J., & Steri, R. (2022). Rising intangible capital, shrinking debt capacity, and the US corporate savings glut. The Journal of Finance, 77(5), 2799-2852.
+
 The corporate savings glut; Saving by companies." The Economist, vol. 376, no. 8434, 9 July 2005, p. 62 (US).
