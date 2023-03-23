@@ -15,7 +15,7 @@ In this [Google Sheet](https://docs.google.com/spreadsheets/d/1wYnN-2_9oZmnNFHef
 
 Although describing the surge in cash has been the subject of many studies, a major gap remains in the literature regarding the relative importance of the potential drivers. In the following paper, we study for the first time the relative importance of a selective set of factors which are proposed to descibe the phenomenon. 
 
-Sermpinis, Georgios and Tsoukas, Serafeim and Vagenas-Nanos, Evangelos and Movaghari, Hadi, Corporate Cash Policy and Double Machine Learning. Available at SSRN: https://ssrn.com/abstract=4390554 or http://dx.doi.org/10.2139/ssrn.4390554.
+Sermpinis, Georgios and Tsoukas, Serafeim and Vagenas-Nanos, Evangelos and Movaghari, Hadi, Corporate Cash Policy and Double Machine Learning. Available at SSRN: https://ssrn.com/abstract=4390554 or http://dx.doi.org/10.2139/ssrn.4390554. Accepted to be presented at Economics and Financial Technology Conference, University of Edinburgh, UK, Financial Management Association (FMA) European Conference, Aalborg University, Denmark, and Finance and Business Analytics Conference, Lefkada, Greece.
 
 
 # References
