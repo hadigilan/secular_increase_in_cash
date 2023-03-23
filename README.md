@@ -1,6 +1,6 @@
 # Introduction
 This project strive to provid a comprehensive references for the phenomenon documented by Bates et al. (2009). They document that the average cash-to-assets ratio for the US industrial firms more than doubled between 1980 to 2006. The figure below illustrates that this surge in cash has continued in recent years.
-This phenomenon is known as ‘corporate savings glut’ in literature and popular press (Falato et al., 2020).
+This phenomenon is known as ‘corporate savings glut’ in literature and popular press (Falato et al., 2022).
 
 ![timeseries](https://user-images.githubusercontent.com/81563436/222896767-605bacb9-0e9f-4a8b-94cd-35e13a71a507.png)
 
@@ -13,7 +13,9 @@ In this [Google Sheet](https://docs.google.com/spreadsheets/d/1wYnN-2_9oZmnNFHef
  
 # Relative importance
 
-Although describing the surge in cash has been the subject of many studies, a major gap remains in the literature regarding the relative importance of the potential drivers.  
+Although describing the surge in cash has been the subject of many studies, a major gap remains in the literature regarding the relative importance of the potential drivers. In the following paper, we study for the first time the relative importance of a selective set of factors which are proposed to descibe the phenomenon. 
+
+Sermpinis, Georgios and Tsoukas, Serafeim and Vagenas-Nanos, Evangelos and Movaghari, Hadi, Corporate Cash Policy and Double Machine Learning. Available at SSRN: https://ssrn.com/abstract=4390554 or http://dx.doi.org/10.2139/ssrn.4390554.
 
 
 # References
