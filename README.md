@@ -7,14 +7,11 @@ This project strive to provid a comprehensive references for the phenomenon docu
 
 
 
-**The factors**
+#The factors
 To describe the observed trend in the time series of US firms' cash holdings, authors introduce different factors from different perspectives. 
-In this [Google Sheet](https://docs.google.com/spreadsheets/d/1wYnN-2_9oZmnNFHefQrnmEiUmphaRApzCQQVirDD7hM/edit?usp=sharing), we introduce these factors 
+In this [Google Sheet](https://docs.google.com/spreadsheets/d/1wYnN-2_9oZmnNFHefQrnmEiUmphaRApzCQQVirDD7hM/edit?usp=sharing), we introduce these factors along with their relevant information including the rationale behind each factor.
 
 
-
- 
-
-** Relative importance **
+#Relative importance
 
 Although describing the surge in cash has been the subject of many studies, a major gap remains in the literature regarding the relative importance of the potential drivers.  
