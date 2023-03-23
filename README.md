@@ -16,4 +16,5 @@ In this [Google Sheet](https://docs.google.com/spreadsheets/d/1wYnN-2_9oZmnNFHef
  
 
 ** Relative importance **
+
 Although describing the surge in cash has been the subject of many studies, a major gap remains in the literature regarding the relative importance of the potential drivers.  
