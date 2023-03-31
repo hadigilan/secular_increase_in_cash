@@ -17,7 +17,16 @@ Although describing the surge in cash has been the subject of many studies, a ma
 
 Sermpinis, Georgios and Tsoukas, Serafeim and Vagenas-Nanos, Evangelos and Movaghari, Hadi, Corporate Cash Policy and Double Machine Learning. Available at SSRN: https://ssrn.com/abstract=4390554 or http://dx.doi.org/10.2139/ssrn.4390554. 
 
+# ChatGPT response!!!
+There are several reasons why cash holdings have risen in the US capital market since the 1980s. Here are a few possible explanations:
 
+Increasing Uncertainty: The economy and financial markets have become more complex and uncertain since the 1980s, with rapid technological change, globalization, and deregulation. This has made it more difficult for companies to predict future cash flows and investment opportunities, leading to a preference for holding more cash as a precautionary measure.
+
+Financial Distress: The 1980s and 1990s saw a wave of corporate bankruptcies and financial crises, including the savings and loan crisis, the junk bond market collapse, and the dot-com bubble. Companies may have learned from these experiences and increased their cash holdings as a buffer against financial distress.
+
+Tax Policy: Changes in tax policy may have also played a role in the rise of cash holdings. For example, the Tax Reform Act of 1986 eliminated many tax loopholes and lowered the corporate tax rate, making it more attractive for companies to retain earnings rather than distribute them to shareholders as dividends.
+
+Shareholder Activism: Another factor that may have contributed to the rise of cash holdings is the growth of shareholder activism. Activist investors often pressure companies to return more cash to shareholders in the form of dividends or share buybacks. To maintain flexibility and avoid being forced into these actions, companies may choose to hold more cash.
 # References
 Falato, A., Kadyrzhanova, D., Sim, J., & Steri, R. (2022). Rising intangible capital, shrinking debt capacity, and the US corporate savings glut. The Journal of Finance, 77(5), 2799-2852.
 
