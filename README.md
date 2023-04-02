@@ -4,7 +4,7 @@ This phenomenon is known as ‘corporate savings glut’ in literature and popul
 
 ![timeseries](https://user-images.githubusercontent.com/81563436/222896767-605bacb9-0e9f-4a8b-94cd-35e13a71a507.png)
 
-
+"Understanding this phenomenon, many argue, may help us tease out the reasons for the slow recovery from the Great Recession" (Sánchez and Yurdagul, 2013)
 
 # The factors
 To describe the observed trend in the time series of US firms' cash holdings, authors introduce different factors from different perspectives. 
@@ -27,7 +27,11 @@ Financial Distress: The 1980s and 1990s saw a wave of corporate bankruptcies and
 Tax Policy: Changes in tax policy may have also played a role in the rise of cash holdings. For example, the Tax Reform Act of 1986 eliminated many tax loopholes and lowered the corporate tax rate, making it more attractive for companies to retain earnings rather than distribute them to shareholders as dividends.
 
 Shareholder Activism: Another factor that may have contributed to the rise of cash holdings is the growth of shareholder activism. Activist investors often pressure companies to return more cash to shareholders in the form of dividends or share buybacks. To maintain flexibility and avoid being forced into these actions, companies may choose to hold more cash.
+
 # References
+
 Falato, A., Kadyrzhanova, D., Sim, J., & Steri, R. (2022). Rising intangible capital, shrinking debt capacity, and the US corporate savings glut. The Journal of Finance, 77(5), 2799-2852.
+
+Sánchez, J. M., & Yurdagul, E. (2013). Why are corporations holding so much cash?. The Regional Economist, 21(1), 4-8.
 
 The corporate savings glut; Saving by companies." The Economist, vol. 376, no. 8434, 9 July 2005, p. 62 (US).
