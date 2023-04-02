@@ -6,7 +6,7 @@ This phenomenon is known as ‘corporate savings glut’ in literature and popul
 
 "Understanding this phenomenon, many argue, may help us tease out the reasons for the slow recovery from the Great Recession" (Sánchez and Yurdagul, 2013)
 
-# The factors
+# The drivers
 To describe the observed trend in the time series of US firms' cash holdings, authors introduce different factors from different perspectives. 
 In this [Google Sheet](https://docs.google.com/spreadsheets/d/1wYnN-2_9oZmnNFHefQrnmEiUmphaRApzCQQVirDD7hM/edit?usp=sharing), we introduce these factors along with their relevant information including the rationale behind each factor.
 
