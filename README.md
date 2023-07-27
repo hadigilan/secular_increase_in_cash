@@ -32,6 +32,8 @@ Shareholder Activism: Another factor that may have contributed to the rise of ca
 
 # References
 
+Bates, T. W., Kahle, K. M., & Stulz, R. M. (2009). Why do US firms hold so much more cash than they used to?. The journal of finance, 64(5), 1985-2021.
+
 Falato, A., Kadyrzhanova, D., Sim, J., & Steri, R. (2022). Rising intangible capital, shrinking debt capacity, and the US corporate savings glut. The Journal of Finance, 77(5), 2799-2852.
 
 Sánchez, J. M., & Yurdagul, E. (2013). Why are corporations holding so much cash?. The Regional Economist, 21(1), 4-8.
