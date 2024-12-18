@@ -13,9 +13,8 @@ In this [Google Sheet](https://docs.google.com/spreadsheets/d/1wYnN-2_9oZmnNFHef
  
 # Relative importance
 
-Although describing the surge in cash has been the subject of many studies, a major gap remains in the literature regarding the relative importance of the potential drivers. In the following paper, we study for the first time the relative importance of a selective set of factors which are proposed to descibe the phenomenon. this paper has been accepted to be presented at: Economics and Financial Technology Conference, University of Edinburgh, UK, Financial Management Association (FMA) European Conference, Aalborg University, Denmark, and Finance and Business Analytics Conference, Lefkada, Greece.
+Although describing the surge in cash has been the subject of many studies, a major gap remains in the literature regarding the relative importance of the potential drivers. For the first time, Movaghari et al. (2024) study the relative importance of a selective set of factors which are proposed to descibe the phenomenon. This paper presented at: _Economics and Financial Technology Conference_, University of Edinburgh, UK, _Financial Management Association_ (FMA) European Conference, Aalborg University, Denmark, and _Finance and Business Analytics Conference_, Lefkada, Greece.
 
-Movaghari, Hadi, Tsoukas, Serafeim and Vagenas-Nanos, Evangelos (2024). Corporate Cash Policy and Double Machine Learning. Internationl Journal of Finance and Economics.
 
 # R codes to implement DML
 The R code included in this project demonstrates the application of the double machine learning (DML) technique in the R programming language. 
@@ -37,6 +36,8 @@ Shareholder Activism: Another factor that may have contributed to the rise of ca
 Bates, T. W., Kahle, K. M., & Stulz, R. M. (2009). Why do US firms hold so much more cash than they used to?. The journal of finance, 64(5), 1985-2021.
 
 Falato, A., Kadyrzhanova, D., Sim, J., & Steri, R. (2022). Rising intangible capital, shrinking debt capacity, and the US corporate savings glut. The Journal of Finance, 77(5), 2799-2852.
+
+Movaghari, Hadi, Tsoukas, Serafeim and Vagenas-Nanos, Evangelos (2024). Corporate Cash Policy and Double Machine Learning. Internationl Journal of Finance and Economics.
 
 Sánchez, J. M., & Yurdagul, E. (2013). Why are corporations holding so much cash?. The Regional Economist, 21(1), 4-8.
 
