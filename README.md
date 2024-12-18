@@ -18,6 +18,8 @@ Although describing the surge in cash has been the subject of many studies, a ma
 Movaghari, Hadi, Tsoukas, Serafeim and Vagenas-Nanos, Evangelos (2024). Corporate Cash Policy and Double Machine Learning. Internationl Journal of Finance and Economics.
 
 # R codes to implement DML
+The R code included in this project demonstrates the application of the double machine learning (DML) technique in the R programming language. 
+
 
 # ChatGPT response!!!
 There are several reasons why cash holdings have risen in the US capital market since the 1980s. Here are a few possible explanations:
